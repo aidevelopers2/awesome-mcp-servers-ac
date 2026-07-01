@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://github.com/favicon.ico" alt="Remote OpenClaw Logo" /> [remoteopenclaw](https://github.com/aidevelopers2/remoteopenclaw-mcp) - MCP server and CLI to search the Remote OpenClaw directory of 13,870+ MCP servers, 4,384+ agent skills, and plugins. Returns names, links, and install commands so any agent can find and install tools. Free, no API key required.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
