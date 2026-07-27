@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://remoteopenclaw.com/favicon.ico" alt="Remote OpenClaw Logo" /> [Remote OpenClaw](https://remoteopenclaw.com) - MCP server and CLI to search a directory of 13,000+ MCP servers, plus agent skills and plugins, for Claude Code, Codex, OpenClaw, and Hermes Agent. Returns names, links, and install commands. Free, no API key.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
